@@ -1,3 +1,9 @@
+Technologies Used : 
+Chatbot: Built using Dialogflow which is a part of Google Cloud Platform.
+Website: Front-end of the platform is developed using HTML and CSS.
+Backend: FastAPI is employed as the back-end framework.
+Database: MySQL is used to store and managing the data.
+
 Directory structure
 ===================
 backend: Contains Python FastAPI backend code
